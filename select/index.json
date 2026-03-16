@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "katharsis (sainou mix)",
+  "base_artist": "TK from 凛として時雨",
+  "createdAt": "2026-03-16T07:51:39.558339Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "katharsis (sainou mix)",
+      "artist": "TK from Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/01_katharsis_(sainou_mix)_TK_from_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "katharsis (sainou mix)",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/02_katharsis_(sainou_mix)_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "katharsis (sainou mix)",
+      "artist": "TK from 凛として時雨",
+      "has_synced": true,
+      "path": "select/03_katharsis_(sainou_mix)_TK_from_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "katharsis (sainou mix)",
+      "artist": "TK from 凛として时雨",
+      "has_synced": true,
+      "path": "select/04_katharsis_(sainou_mix)_TK_from_凛として时雨.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "katharsis (sainou mix)",
+      "artist": "TK from 凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_01_katharsis_(sainou_mix)_TK_from_凛として時雨.txt"
+    }
+  ]
+}
